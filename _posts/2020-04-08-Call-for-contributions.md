@@ -70,15 +70,15 @@ Apply your process conformance analytics to correctly relate process models to e
 
 ## DATASET 
 
-The dataset provided with this Challenge includes five event logs and five process models. The five event logs are the filtered, anonymized and manipulated versions of the five event logs in the CoSeLoG project dataset (https://doi.org/10.4121/uuid:26aba40d-8b2d-435b-b5af-6d4bfbd7a270). The five process models were discovered from the preprocessed event logs using a state-of-the-art process discovery technique. 
+The dataset provided with this Challenge includes five event logs and five process models. The five event logs are the filtered, anonymized and manipulated versions of the five event logs in the CoSeLoG project dataset (<https://doi.org/10.4121/uuid:26aba40d-8b2d-435b-b5af-6d4bfbd7a270>). The five process models were discovered from the preprocessed event logs using a state-of-the-art process discovery technique. 
 
-The dataset of the Challenge is made publicly available at the challenge repository (https://github.com/ccchallenge/datasets). 
+The dataset of the Challenge is made publicly available at the challenge repository (<https://github.com/ccchallenge/datasets>). 
 
 For more information on the CoSeLoG project, refer to: https://doi.org/10.4121/uuid:26aba40d-8b2d-435b-b5af-6d4bfbd7a270. 
 
 REPORT 
 
-A submission should contain a PDF Report of at most 20 pages, including figures, tables and appendices, in the LNCS/LNBIP format (http://www.springer.com/computer/lncs?SGWID=0-164-6-791344-0) specified by Springer (available for both LaTeX and MS Word). Submissions must be made through EasyChair at https://easychair.org/conferences/?conf=icpm2019, where you must indicate that your submission is to the Conformance Checking Challenge. 
+A submission should contain a PDF Report of at most 20 pages, including figures, tables and appendices, in the LNCS/LNBIP format (http://www.springer.com/computer/lncs?SGWID=0-164-6-791344-0) specified by Springer (available for both LaTeX and MS Word). Submissions must be made through EasyChair at https://easychair.org/conferences/?conf=icpm2020, where you must indicate that your submission is to the Conformance Checking Challenge. 
 
 ## CONTACTS 
 
