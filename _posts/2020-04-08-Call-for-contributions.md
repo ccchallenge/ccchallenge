@@ -15,10 +15,12 @@ The **2nd Conformance Checking Challenge (CCC 2020)** is a co-located event of t
 
 ## Organizers
 
-|**Abel Armas-Cervantes**, The University of Melbourne|
-|**Artem Polyvyanyy**, The University of Melbourne|
-|**Gert Janssenswillen**, Hasselt University|
-|**Luciano García-Bañuelos**, Tecnológico de Monterrey|
+- **Abel Armas-Cervantes**, The University of Melbourne
+- **Artem Polyvyanyy**, The University of Melbourne
+- **Gert Janssenswillen**, Hasselt University
+- **Luciano García-Bañuelos**, Tecnológico de Monterrey
+
+-------------------------------------------------------
 
 # The challenge (problem statement)
 
@@ -67,6 +69,8 @@ Discuss aspects related to the understandability of your process conformance ana
 ### Correctness (15%) 
 
 Apply your process conformance analytics to correctly relate process models to event logs from which they were constructed. 
+
+---------------------------------------------------------------------------
 
 ## Dataset
 
